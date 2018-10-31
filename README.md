@@ -1,3 +1,2 @@
 # FoodPark
-It is an online website for foodpark
-But for the dealer end.
+It is an online website for foodpark, aimed at the dealer end.
